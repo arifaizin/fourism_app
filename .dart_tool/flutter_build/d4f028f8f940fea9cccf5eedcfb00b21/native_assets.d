@@ -1,0 +1,1 @@
+ /home/user/fourism_app/.dart_tool/flutter_build/d4f028f8f940fea9cccf5eedcfb00b21/native_assets.yaml: 

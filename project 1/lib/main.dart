@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:fourism_app/screen/home/home_screen_dart.dart';
-import 'model/tourism.dart';
-import 'screen/home/tourism_card_widget.dart';
+import 'package:fourism_app/model/tourism.dart';
+import 'package:fourism_app/screen/home/tourism_card_widget.dart';
 
 
 void main() {
